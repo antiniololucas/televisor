@@ -1,0 +1,32 @@
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.exe.config
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.exe
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.pdb
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor_antiñolo.Form1.resources
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor_antiñolo.Properties.Resources.resources
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.exe
+C:\Users\Navegador\source\repos\Televisor-antiñolo\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.pdb
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.exe.config
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.exe
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.pdb
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.AssemblyReference.cache
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor_antiñolo.Form1.resources
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor_antiñolo.Properties.Resources.resources
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.GenerateResource.cache
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.CoreCompileInputs.cache
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.exe
+C:\Users\TT\Desktop\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.pdb
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.exe.config
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.exe
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\bin\Debug\Televisor-antiñolo.pdb
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.AssemblyReference.cache
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.SuggestedBindingRedirects.cache
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor_antiñolo.Form1.resources
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor_antiñolo.Properties.Resources.resources
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.GenerateResource.cache
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.csproj.CoreCompileInputs.cache
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.exe
+C:\Todo\2 AÑO\POO\Televisor-antiñolo\obj\Debug\Televisor-antiñolo.pdb
